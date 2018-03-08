@@ -14,13 +14,13 @@ Clip driving video frame by frame, get 24300 720x1280x3  RGB images for training
 
 Left: driving image;   Right: sync steering angles.
 
-![data-example](/Users/zouxiaxia/Documents/GitHub/MIT6.S094-DeepTesla/readme_img/data-example.png)
+![data-example](readme_img/data-example.png)
 
 **Data Exploration**
 
 The distribution of steering angles is unblanced, sharp-turning are very few.
 
-![C84D4538-02E4-4D55-B185-ABE85BC5D4DE](/var/folders/cy/qj9qn6tj3jnfyzp19lngcm180000gn/T/net.shinyfrog.bear/BearTemp.IgQ2vf/C84D4538-02E4-4D55-B185-ABE85BC5D4DE.png)
+![C84D4538-02E4-4D55-B185-ABE85BC5D4DE](readme_img/distribution.png)
 
 
 
